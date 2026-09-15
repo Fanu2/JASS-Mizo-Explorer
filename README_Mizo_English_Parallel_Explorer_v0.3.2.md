@@ -1,3 +1,5 @@
+<img width="1737" height="1007" alt="image" src="https://github.com/user-attachments/assets/fe957f8b-d0e9-4510-812d-044fc56fb631" />
+
 # JASS Multilingual Explorer v0.3.2 --- Mizo Parallel Edition
 
 A lightweight desktop explorer for browsing and searching English--Mizo
